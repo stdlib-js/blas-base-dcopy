@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-07-01)
+## Unreleased (2024-07-14)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`d04dcbd`](https://github.com/stdlib-js/stdlib/commit/d04dcbd6dc3b0bf4a89bd3947d317fa5ff15bb38) - **docs:** remove private annotations in C comments _(by Philipp Burckhardt)_
 -   [`5418177`](https://github.com/stdlib-js/stdlib/commit/5418177d92f26a6d99bd53d19713f2fa0d536b27) - **refactor:** use macro to convert stride to offset _(by Athan Reines)_
 -   [`c3895df`](https://github.com/stdlib-js/stdlib/commit/c3895df672126473f5803e93b529bcdd0775c75a) - **refactor:** use utility to resolve an index offset _(by Athan Reines)_
 -   [`4d08374`](https://github.com/stdlib-js/stdlib/commit/4d0837401b68ebd4e5b8c38e0214158dbe410a07) - **refactor:** reduce code duplication [(#2479)](https://github.com/stdlib-js/stdlib/pull/2479) _(by Aman Bhansali, Athan Reines)_
