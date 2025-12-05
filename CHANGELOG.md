@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-22)
+## Unreleased (2025-12-05)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`89a5bbd`](https://github.com/stdlib-js/stdlib/commit/89a5bbda013fe507eb6aa0c350428ebb7e484030) - **bench:** refactor to use dynamic memory allocation in `blas/base/dcopy` [(#8712)](https://github.com/stdlib-js/stdlib/pull/8712) _(by Faraz Ghani, Athan Reines)_
 -   [`11f3cfa`](https://github.com/stdlib-js/stdlib/commit/11f3cfa5a658d7cb105aeb2578b7d72ea62f1e97) - **refactor:** update include header guards for double precision real packages [(#7711)](https://github.com/stdlib-js/stdlib/pull/7711) _(by Shabareesh Shetty)_
 -   [`e039f2a`](https://github.com/stdlib-js/stdlib/commit/e039f2a6f7ff1b4141dba2d0f5a2fb8a03d7a9b8) - **fix:** consistently use constants instead of hardcoded numbers in unrolled BLAS loops _(by Philipp Burckhardt)_
 -   [`09c9ceb`](https://github.com/stdlib-js/stdlib/commit/09c9ceb58c6dd23c10f1980094851983c57d693f) - **chore:** fix formatting _(by Athan Reines)_
@@ -50,10 +51,11 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aman Bhansali
 -   Athan Reines
+-   Faraz Ghani
 -   Philipp Burckhardt
 -   Shabareesh Shetty
 
