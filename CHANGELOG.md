@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-24)
+## Unreleased (2026-11-01)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`c73cd1e`](https://github.com/stdlib-js/stdlib/commit/c73cd1e7b32f9eb83be97050cdc0b5f605173539) - advance indices in unrolled loops of portable `dcopy` and `scopy` [(#16122)](https://github.com/stdlib-js/stdlib/pull/16122)
+
+</section>
+
+<!-- /.bug-fixes -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#15823](https://github.com/stdlib-js/stdlib/issues/15823)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`c73cd1e`](https://github.com/stdlib-js/stdlib/commit/c73cd1e7b32f9eb83be97050cdc0b5f605173539) - **fix:** advance indices in unrolled loops of portable `dcopy` and `scopy` [(#16122)](https://github.com/stdlib-js/stdlib/pull/16122) _(by mantrapatel05)_
 -   [`ea860cb`](https://github.com/stdlib-js/stdlib/commit/ea860cb837689aeec224d0f0e4f71054bc5b309d) - **bench:** refactor to use string interpolation in `blas/base/dcopy` [(#10260)](https://github.com/stdlib-js/stdlib/pull/10260) _(by Bhargav Dabhade)_
 
 </details>
@@ -24,9 +47,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Bhargav Dabhade
+-   mantrapatel05
 
 </section>
 
